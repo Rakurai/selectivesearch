@@ -1,6 +1,10 @@
 # Selective Search Implementation for Python
 
-This is a simple Selective Search Implementation for Python
+This is a simple Selective Search Implementation for Python.
+
+## Changes
+
+The majority of this code is not mine, I have just added support for offloading to a GPU with PyCUDA.
 
 ## Install
 
